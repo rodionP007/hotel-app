@@ -1,0 +1,28 @@
+# ====== IDE и редакторы ======
+.idea/
+.vscode/
+
+# ====== Python ======
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.venv/
+
+# ====== Временные файлы ======
+*.log
+*.tmp
+*.temp
+*.bak
+.DS_Store
+
+# ====== Локальные настройки ======
+config_local.py
+settings_local.py
+
+# ====== Базы данных (если они временные) ======
+*.sqlite
+*.db
