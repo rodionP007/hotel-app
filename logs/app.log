@@ -1,0 +1,13 @@
+
+2025-11-20 13:57:23,675 [INFO] HotelApp: Создание HTML отчёта: data.xml
+2025-11-20 13:57:23,688 [INFO] HotelApp: Старт загрузки XML: data.xml
+2025-11-20 13:57:39,715 [INFO] HotelApp: Создание HTML отчёта: data.xml
+2025-11-20 13:57:39,724 [INFO] HotelApp: Старт загрузки XML: data.xml
+2025-11-20 14:08:12,761 [INFO] HotelApp: Старт загрузки XML: C:/Users/Admin/PycharmProjects/pythonProject4/clients.xml
+2025-11-20 14:08:13,775 [DEBUG] HotelApp: XML успешно загружен
+2025-11-20 14:08:13,775 [INFO] HotelApp: Начата обработка XML
+2025-11-20 14:08:13,775 [DEBUG] HotelApp: Файл успешно изменён
+2025-11-20 14:08:13,775 [INFO] HotelApp: Создание HTML отчёта: C:/Users/Admin/PycharmProjects/pythonProject4/clients.xml
+2025-11-20 14:08:14,788 [DEBUG] HotelApp: HTML успешно сформирован
+2025-11-22 17:54:15,328 [INFO] HotelApp: Создание HTML отчёта: data.xml
+2025-11-22 17:54:15,338 [INFO] HotelApp: Старт загрузки XML: data.xml
